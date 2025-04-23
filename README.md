@@ -5,23 +5,26 @@ Flask-based web app that classifies satellite images into Land Use/Land Cover (L
 
 Clone the Repository
  git clone https://github.com/DurgeshBhatkar/Satellite-Image-Based-LULC-Mapping.git
+ 
  cd Satellite-Image-Based-LULC-Mapping
 
 
 
 Install Dependencies
+
  pip install -r requirements.txt
 
 
 
 Run the App
+
  python app.py
 
 
 
 Open the App
  After running the above command, a local link will be generated (e.g., http://127.0.0.1:5000/)
- Click the link or copy it into your browser
+ and click the link or copy it into your browser
 
 Use the App
 
